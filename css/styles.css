@@ -21,7 +21,7 @@ body{
 	margin-top: 30px;
 	border-radius: 500px;
 	transition: all .2s ease-in-out;
-	border: white solid 2.5px;
+	border: white solid 2.px;
 }
 
 .perfil:hover{
